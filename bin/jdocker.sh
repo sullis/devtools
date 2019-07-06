@@ -18,7 +18,8 @@ docker pull mcr.microsoft.com/java/jre-headless:11u3-zulu-alpine
 docker pull mcr.microsoft.com/java/jdk:8u192-zulu-alpine
 docker pull mcr.microsoft.com/java/jdk:11u2-zulu-alpine
 docker pull mcr.microsoft.com/java/jdk:11u2-zulu-ubuntu
-docker pull gcr.io/distroless/java:latest
+docker pull gcr.io/distroless/java:8
+docker pull gcr.io/distroless/java:11
 docker pull maven:3-jdk-8-alpine
 docker pull maven:3-amazoncorretto
 docker pull maven:3-amazoncorretto-11
