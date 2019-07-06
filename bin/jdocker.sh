@@ -7,6 +7,12 @@ docker pull openjdk:11-jre
 docker pull openjdk:11-jdk
 docker pull amazoncorretto:8
 docker pull amazoncorretto:11
+docker pull mcr.microsoft.com/java/jre:8u192-zulu-alpine
+docker pull mcr.microsoft.com/java/jre:8u212-zulu-alpine
+docker pull mcr.microsoft.com/java/jre:11u3-zulu-alpine
+docker pull mcr.microsoft.com/java/jre:11u3-zulu-debian8
+docker pull mcr.microsoft.com/java/jre-headless:8u192-zulu-alpine
+docker pull mcr.microsoft.com/java/jre-headless:11u3-zulu-alpine
 docker pull mcr.microsoft.com/java/jdk:8u192-zulu-alpine
 docker pull mcr.microsoft.com/java/jdk:11u2-zulu-alpine
 docker pull mcr.microsoft.com/java/jdk:11u2-zulu-ubuntu
