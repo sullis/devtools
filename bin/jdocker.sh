@@ -5,6 +5,8 @@ docker pull openjdk:8-jre-alpine
 docker pull openjdk:11-jre-slim
 docker pull openjdk:11-jre
 docker pull openjdk:11-jdk
+docker pull ibmjava:8-jre
+docker pull ibmjava:8-sdk
 docker pull amazoncorretto:8
 docker pull amazoncorretto:8-al2-full
 docker pull amazoncorretto:11
