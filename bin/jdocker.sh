@@ -20,6 +20,7 @@ docker pull gcr.io/distroless/java:latest
 docker pull maven:3-jdk-8-alpine
 docker pull maven:3-amazoncorretto
 docker pull maven:3-amazoncorretto-11
+docker pull maven:3-ibmjava-8
 docker pull maven:latest
 docker pull java:8-jdk
 docker pull java:8-jre
