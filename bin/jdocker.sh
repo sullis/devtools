@@ -2,6 +2,7 @@ docker pull openjdk:8-jre
 docker pull openjdk:8-jre-slim
 docker pull openjdk:8-jdk
 docker pull openjdk:8-jre-alpine
+docker pull openjdk:11-jdk-slim
 docker pull openjdk:11-jre-slim
 docker pull openjdk:11-jre
 docker pull openjdk:11-jdk
