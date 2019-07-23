@@ -30,4 +30,5 @@ docker pull maven:3-ibmjava-8
 docker pull maven:latest
 docker pull java:8-jdk
 docker pull java:8-jre
+docker pull adoptopenjdk/openjdk11:latest
 docker pull oracle/graalvm-ce:latest
