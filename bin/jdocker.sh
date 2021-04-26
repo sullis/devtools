@@ -12,9 +12,9 @@ docker pull amazoncorretto:8
 docker pull amazoncorretto:8-al2-full
 docker pull amazoncorretto:11
 docker pull amazoncorretto:11-al2-full
-docker pull amazoncorretto:15
+docker pull amazoncorretto:16
 docker pull arm64v8/amazoncorretto:11
-docker pull arm64v8/amazoncorretto:15
+docker pull arm64v8/amazoncorretto:16
 docker pull mcr.microsoft.com/java/jre:8u192-zulu-alpine
 docker pull mcr.microsoft.com/java/jre:8u212-zulu-alpine
 docker pull mcr.microsoft.com/java/jre:11u3-zulu-alpine
