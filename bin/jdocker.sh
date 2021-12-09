@@ -37,3 +37,9 @@ docker pull java:8-jdk
 docker pull java:8-jre
 docker pull adoptopenjdk/openjdk11:latest
 docker pull oracle/graalvm-ce:latest
+docker pull azul/zulu-openjdk:8
+docker pull azul/zulu-openjdk:11
+docker pull azul/zulu-openjdk:17
+docker pull azul/prime:8
+docker pull azul/prime:11
+docker pull azul/prime:17
