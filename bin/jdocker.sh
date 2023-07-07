@@ -17,6 +17,7 @@ docker pull amazoncorretto:17
 docker pull arm64v8/amazoncorretto:11
 docker pull arm64v8/amazoncorretto:16
 docker pull arm64v8/amazoncorretto:17
+docker pull arm64v8/amazoncorretto:20
 docker pull mcr.microsoft.com/java/jre:8u192-zulu-alpine
 docker pull mcr.microsoft.com/java/jre:8u212-zulu-alpine
 docker pull mcr.microsoft.com/java/jre:11u3-zulu-alpine
@@ -40,6 +41,8 @@ docker pull oracle/graalvm-ce:latest
 docker pull azul/zulu-openjdk:8
 docker pull azul/zulu-openjdk:11
 docker pull azul/zulu-openjdk:17
+docker pull azul/zulu-openjdk:20
+docker pull azul/zulu-openjdk:21
 docker pull azul/prime:8
 docker pull azul/prime:11
 docker pull azul/prime:17
