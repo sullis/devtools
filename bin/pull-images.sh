@@ -1,2 +1,4 @@
 docker pull mockserver/mockserver
 docker pull localstack/localstack:3.3.0
+docker pull apachepinot/pinot:1.1.0
+docker pull flink:1.19.0-java17
