@@ -7,3 +7,4 @@ docker pull apache/kafka:3.7.0
 docker pull eclipse-temurin:17-jdk
 docker pull eclipse-temurin:21-jdk
 docker pull mongo
+docker pull minio/minio
