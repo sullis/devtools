@@ -10,3 +10,4 @@ docker pull eclipse-temurin:21-jdk
 docker pull mongo
 docker pull minio/minio
 docker pull zookeeper:latest
+docker pull valkey/valkey:7
