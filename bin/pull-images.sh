@@ -15,3 +15,4 @@ docker pull minio/minio
 docker pull zookeeper:latest
 docker pull valkey/valkey:7
 docker pull valkey/valkey
+docker pull adobe/s3mock
