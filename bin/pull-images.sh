@@ -2,6 +2,7 @@ docker pull mockserver/mockserver
 docker pull localstack/localstack:3.4.0
 docker pull localstack/localstack:s3-latest
 docker pull apachepinot/pinot:1.1.0
+docker pull apachepinot/pinot:1.2.0
 docker pull flink:1.19.1-java17
 docker pull flink:1.20.0-java17
 docker pull confluentinc/cp-kafka:7.2.0
