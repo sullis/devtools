@@ -19,3 +19,4 @@ docker pull valkey/valkey:7
 docker pull valkey/valkey
 docker pull adobe/s3mock
 docker pull postgres:16.4
+docker pull graphiteapp/graphite-statsd
