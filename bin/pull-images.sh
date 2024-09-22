@@ -20,3 +20,6 @@ docker pull valkey/valkey
 docker pull adobe/s3mock
 docker pull postgres:16.4
 docker pull graphiteapp/graphite-statsd
+docker pull public.ecr.aws/amazoncorretto/amazoncorretto:11
+docker pull public.ecr.aws/amazoncorretto/amazoncorretto:17
+docker pull public.ecr.aws/amazoncorretto/amazoncorretto:21
