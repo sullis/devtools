@@ -12,7 +12,6 @@ docker pull amazoncorretto:8
 docker pull amazoncorretto:8-al2-full
 docker pull amazoncorretto:11
 docker pull amazoncorretto:11-al2-full
-docker pull amazoncorretto:16
 docker pull amazoncorretto:17
 docker pull arm64v8/amazoncorretto:11
 docker pull arm64v8/amazoncorretto:17
