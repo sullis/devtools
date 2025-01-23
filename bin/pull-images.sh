@@ -8,6 +8,8 @@ docker pull flink:1.20.0-java17
 docker pull confluentinc/cp-kafka:7.2.0
 docker pull confluentinc/cp-kafka:7.3.2
 docker pull confluentinc/cp-kafka:7.4.0
+docker pull cp-enterprise-control-center:7.3.2
+docker pull cp-enterprise-control-center:7.4.0
 docker pull confluentinc/cp-kafka:latest
 docker pull confluentinc/cp-server:latest
 docker pull apache/kafka:3.7.0
