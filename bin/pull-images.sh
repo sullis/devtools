@@ -28,3 +28,4 @@ docker pull graphiteapp/graphite-statsd
 docker pull public.ecr.aws/amazoncorretto/amazoncorretto:11
 docker pull public.ecr.aws/amazoncorretto/amazoncorretto:17
 docker pull public.ecr.aws/amazoncorretto/amazoncorretto:21
+docker pull cassandra:4.1.7
