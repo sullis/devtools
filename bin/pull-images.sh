@@ -1,5 +1,6 @@
 docker pull mockserver/mockserver
 docker pull localstack/localstack:4.0.3
+docker pull localstack/localstack:4.1
 docker pull localstack/localstack:s3-latest
 docker pull apachepinot/pinot:1.1.0
 docker pull apachepinot/pinot:1.2.0
