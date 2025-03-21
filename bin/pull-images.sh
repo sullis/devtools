@@ -17,6 +17,7 @@ docker pull apache/kafka:3.7.0
 docker pull apache/kafka:3.8.0
 docker pull apache/kafka:3.9.0
 docker pull apache/kafka:4.0.0
+docker pull apache/kafka-native:4.0.0
 docker pull eclipse-temurin:17-jdk
 docker pull eclipse-temurin:21-jdk
 docker pull mongo
