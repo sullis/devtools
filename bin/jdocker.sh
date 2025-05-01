@@ -44,3 +44,4 @@ docker pull azul/zulu-openjdk:21
 docker pull azul/prime:8
 docker pull azul/prime:11
 docker pull azul/prime:17
+docker pull cassandra:4.1.8
